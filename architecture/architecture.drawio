@@ -1,0 +1,37 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="l7zBaZpwUHQJWhDIxhEc">
+    <mxGraphModel dx="920" dy="13551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="11100" pageHeight="12700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rUdiYLtTKvzngom3ClwL-6" edge="1" parent="1" source="rUdiYLtTKvzngom3ClwL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rUdiYLtTKvzngom3ClwL-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUdiYLtTKvzngom3ClwL-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Internet Users" vertex="1">
+          <mxGeometry height="40" width="130" x="390" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="rUdiYLtTKvzngom3ClwL-8" edge="1" parent="1" source="rUdiYLtTKvzngom3ClwL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rUdiYLtTKvzngom3ClwL-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUdiYLtTKvzngom3ClwL-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CloudFront Distribution&lt;br&gt;(HTTPS + Edge Caching)" vertex="1">
+          <mxGeometry height="40" width="230" x="340" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rUdiYLtTKvzngom3ClwL-10" edge="1" parent="1" source="rUdiYLtTKvzngom3ClwL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rUdiYLtTKvzngom3ClwL-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUdiYLtTKvzngom3ClwL-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Origin Access Control" vertex="1">
+          <mxGeometry height="40" width="230" x="340" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rUdiYLtTKvzngom3ClwL-16" edge="1" parent="1" source="rUdiYLtTKvzngom3ClwL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rUdiYLtTKvzngom3ClwL-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUdiYLtTKvzngom3ClwL-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;Amazon S3 (Private Bucket)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="340" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="rUdiYLtTKvzngom3ClwL-15" parent="1" style="whiteSpace=wrap;html=1;" value="Index.html&lt;br&gt;Styles.css&lt;br&gt;Scripts.js" vertex="1">
+          <mxGeometry height="120" width="230" x="340" y="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
